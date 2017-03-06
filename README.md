@@ -7,11 +7,11 @@ You can follow along the full tutorial here: [Blog](https://pub.scotch.io/@micwa
 ## How to Install
 
 Simply do:
-'''
+```
   git clone git@github.com:brandiqa/react-web-fonts.git
   cd react-web-fonts
   npm install
   npm run
-'''
+```
 
 Take a look at index.css and index.js to see how the fonts were installed in this React project
