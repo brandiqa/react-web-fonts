@@ -1,0 +1,24 @@
+{
+  "name": "react-web-fonts",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Tutorial demonstrating how to add Google Fonts to a React project",
+  "author": "Michael Wanyoike",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:brandiqa/react-web-fonts.git"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
